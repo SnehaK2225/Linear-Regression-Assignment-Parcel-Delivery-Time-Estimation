@@ -1,25 +1,56 @@
 # Linear-Regression-Assignment-Parcel-Delivery-Time-Estimation
-Linear Regression Assignment: Parcel Delivery Time Estimation
-Objective
-The objective of this assignment is to apply linear regression techniques to a real-world business scenario. regression analysis has been done to identify key relationships between variables, make data-driven predictions and extract actionable business insights. An understanding of how to interpret regression outputs , assess model performance and effectively communicate findings to support strategic decision-making has been developed.
-Analysis Approach
-Data Preparation
-1. Data types are fixed appropriately to match data requirements.
-2. Features are engineered effectively toadd value to the analysis
-Train Test Split
-Data is split correctly into training and test sets maintaining a ratio of 80:20
-Exploratory Data Analysis
-1.	The target variable’s distribution and relationships are analysed using relevant plots and clear explanations.
-2.	Summary statistics (mean, median, standard deviation, etc.) are calculated and correctly interpreted for all relevant variables.
-3.	Feature distributions are visualised using appropriate plots, with clear insights provided on trends and anomalies.
-4.	Outliers are identified accurately and handled appropriately, ensuring no significant loss of information.
-Model Building
-1.	Target and feature variables are defined correctly.
-2.	A baseline Linear Regression model is initialised and trained correctly.
-3.	Feature elimination is performed effectively using Recursive Feature Elimination (RFE). A suitable balance between the number of features and resulting performance is maintained.
-4.	The selected features from RFE are identified and used for the final model.
-5.	Predictions on test data are generated and evaluated.
-6.	Model evaluation is conducted using appropriate performance metrics.
-Results and Inference
-1.	Residual analysis is implemented correctly, and inferences are drawn accurately.
-2.	Error analysis is performed appropriately, clearly explaining the model’s performance.
+📦 Parcel Delivery Time Estimation: Linear Regression Assignment
+🎯 Objective
+The objective of this assignment is to apply Linear Regression techniques to a real-world business problem—estimating parcel delivery time.
+Through this analysis, we aim to:
+
+Identify key relationships between variables
+
+Make data-driven predictions
+
+Extract actionable business insights
+
+Interpret regression outputs
+
+Assess model performance
+
+Communicate findings effectively to support strategic decision-making
+
+🧠 Analysis Approach
+1️⃣ Data Preparation
+Data types were corrected to match modeling requirements.
+
+Meaningful feature engineering was performed to enrich the dataset.
+
+2️⃣ Train-Test Split
+The dataset was split into training (80%) and testing (20%) sets to ensure robust model evaluation.
+
+3️⃣ Exploratory Data Analysis (EDA)
+📊 The distribution of the target variable was visualized and interpreted.
+
+📈 Summary statistics such as mean, median, and standard deviation were calculated for key features.
+
+📌 Feature distributions were analyzed to uncover trends and detect anomalies.
+
+⚠️ Outliers were accurately identified and handled without compromising critical information.
+
+4️⃣ Model Building
+✅ Target and predictor variables were clearly defined.
+
+📦 A baseline Linear Regression model was initialized and trained.
+
+🔁 Recursive Feature Elimination (RFE) was applied for feature selection, striking a balance between simplicity and performance.
+
+⭐ Selected features from RFE were used to train the final model.
+
+📤 Predictions were made on the test dataset.
+
+📏 Model performance was evaluated using appropriate regression metrics.
+
+5️⃣ Results and Inference
+📉 Residual analysis was performed to validate model assumptions and quality of fit.
+
+❌ Error analysis provided insights into prediction accuracy and model limitations.
+
+✅ Conclusion
+This project demonstrates the practical application of linear regression for solving a delivery-related business problem. It showcases a complete pipeline from data preparation and exploration to model evaluation and interpretation—enabling data-driven strategic decisions.
