@@ -18,6 +18,7 @@ Assess model performance
 Communicate findings effectively to support strategic decision-making
 
 🧠 Analysis Approach
+
 1️⃣ Data Preparation
 Data types were corrected to match modeling requirements.
 
@@ -36,6 +37,7 @@ The dataset was split into training (80%) and testing (20%) sets to ensure robus
 ⚠️ Outliers were accurately identified and handled without compromising critical information.
 
 4️⃣ Model Building
+
 ✅ Target and predictor variables were clearly defined.
 
 📦 A baseline Linear Regression model was initialized and trained.
@@ -49,6 +51,7 @@ The dataset was split into training (80%) and testing (20%) sets to ensure robus
 📏 Model performance was evaluated using appropriate regression metrics.
 
 5️⃣ Results and Inference
+
 📉 Residual analysis was performed to validate model assumptions and quality of fit.
 
 ❌ Error analysis provided insights into prediction accuracy and model limitations.
